@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 
 /**
  *_calloc -memory allocaion for nmeb and size bytes
